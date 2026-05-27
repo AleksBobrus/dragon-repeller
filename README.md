@@ -52,5 +52,8 @@ dragon-repeller/
 ## 📬 Контакты
 
 Aleksandr Bobrus  
+📧 [aleksandrbobrus@gmail.com](mailto:aleksandrbobrus@gmail.com) 
+
 [![Telegram](https://img.shields.io/badge/Telegram-@aleksandr_bobrus-blue?style=flat&logo=telegram)](https://t.me/aleksandr_bobrus)  
 [![GitHub](https://img.shields.io/badge/GitHub-AleksBobrus-black?style=flat&logo=github)](https://github.com/AleksBobrus)
+
